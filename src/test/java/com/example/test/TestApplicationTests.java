@@ -12,6 +12,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 public
 class TestApplicationTests {
 
+    //TEST
     @Test
     void contextLoads() {
     }
